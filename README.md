@@ -53,3 +53,11 @@ Expert in delivering innovative solutions and integrating advanced AI technologi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,aws,gcp,azure,docker,kubernetes,opencv,sklearn,nextjs,react,angular,django,fastapi,flask,express,nestjs,laravel,mysql,mongodb,prisma,postgres,tailwind,selenium,ts,js,php,css,html,cs,cpp,dotnet,github" />
 </p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
