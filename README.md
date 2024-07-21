@@ -59,5 +59,5 @@ Expert in delivering innovative solutions and integrating advanced AI technologi
 </div>
 
 <p align="center">
- <img width="1000" src="agithub-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
