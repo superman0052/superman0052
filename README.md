@@ -17,7 +17,7 @@ Expert in delivering innovative solutions and integrating advanced AI technologi
 - ✔ **Back-end Development**: Express.js, PHP, Laravel, FastAPI, Django, Flask
 
 💬Mobile App Dev
-- ✔ **Development**: Flutter, FlutterFlow, Ionic, Android, React Native
+- ✔ **Development**: Flutter, FlutterFlow, Ionic Framework, Android, React Native, Android
 
 💬The Others Dev
 - ✔ **Automation**: Zapier.com, Make.com, ComoCRM
