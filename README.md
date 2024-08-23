@@ -45,12 +45,6 @@ Expert in delivering innovative solutions and integrating advanced AI technologi
 ---
 
 
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="60px" style="margin-right: 10px;">
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="60px" style="margin-right: 10px;">
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px" style="margin-right: 10px;">
-</p>
-
 ## 🚀 My Stacks
 
 <p align="center">
