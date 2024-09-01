@@ -2,7 +2,7 @@
 
   
 ### About Me:    
-I'm Google Sr. Software Engineer and I Love Open Source and Communication.
+I'm Sr. Software Engineer and I Love Open Source and Communication.
 
 Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. I love exploring new technologies and contributing to impactful projects.
 
