@@ -1,7 +1,6 @@
 ##  <h1 align="left"> 🚀 Senior Full Stack & Blockchain & AI Developer 🚀</h1>
 
 🏆 **My Expertise:**
-
 <div align="left">
   <br />
   <p>
