@@ -1,12 +1,4 @@
-# Hello! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
-
-  
-### About Me:    
-I'm Sr. Software Engineer and I Love Open Source and Communication.
-
-Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. I love exploring new technologies and contributing to impactful projects.
-
-## 🚀 <h1 align="left">Senior Full Stack & Blockchain & AI Developer</h1>
+##  <h1 align="left"> 🚀 Senior Full Stack & Blockchain & AI Developer 🚀</h1>
 
 🏆 **My Expertise:**
 
