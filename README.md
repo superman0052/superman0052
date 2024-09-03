@@ -6,26 +6,24 @@ I'm Sr. Software Engineer and I Love Open Source and Communication.
 
 Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. I love exploring new technologies and contributing to impactful projects.
 
-## 🚀 About Me
+## 🚀 <h1 align="left">Senior Full Stack & Blockchain & AI Developer</h1>
 
 🏆 **My Expertise:**
 
-💬Web App Dev
-- ✔ **UI/UX Design Principles**
-- ✔ **Front-end Development:** Next.js, React.js , Angular.js, Vue.js, Javascript(ES+6), TypeScript, HTML5, CSS3.
-- ✔ **Back-end Development**: Express.js, PHP, Laravel, FastAPI, Django, Flask
+<div align="left">
+  <br />
+  <p>
+    I've spent 8 years honing my skills in full-stack development and blockchain technology. Beginning with systems development, I focused on front-end and back-end expertise. My journey led me deep into blockchain, specializing in decentralized applications and smart contracts.
+  </p>
 
-💬Mobile App Dev
-- ✔ **Development**: Flutter, FlutterFlow, Ionic Framework, Android, React Native, Android
+  <p>
+    My passion is bridging traditional software with blockchain. I collaborate with diverse teams—designers, researchers, data scientists—to deliver impactful solutions, from optimizing smart contracts to crafting robust user interfaces.
+  </p>
 
-💬The Others Dev
-- ✔ **Automation**: Zapier.com, Make.com, ComoCRM
-- ✔ **API Technology**: Restful API, Socket API, GraphQL
-- ✔ **AI Integration**: AI Chatbot, GPT, Generative AI Art, DALL-E, RAG System.
-- ✔ **Database Management**: MySQL, MongoDB, PostgreSQL, OracleDB, MariaDB, Firebase
-- ✔ **Version Control**: Git, GitHub, GitLab, SVN
-- ✔ **Deployment and Cloud Technologies**: AWS, GCP, Azure, Heroku
-- ✔ **Testing and Debugging**: Jest, Mocha, Chai, Postman
+  <p>
+    I specialize in AI algorithms—machine learning, NLP, computer vision—using TensorFlow and PyTorch. My work includes data preprocessing, model training, and performance evaluation for effective AI solutions.
+  </p>
+</div>
 
 ### Best frameworks and main libraries for Python3:
 
