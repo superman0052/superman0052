@@ -1,4 +1,4 @@
-##  <h1 align="left"> 🚀 Senior Blockchain & AI Developer 🚀</h1>
+##  <h1 align="left"> 🚀 Senior Blockchain & AI & Web3 Developer 🚀</h1>
 
 <div align="left">
   <br />
